@@ -1,15 +1,11 @@
-👨‍💻 As a Full-Stack Software Engineer, I craft elegant and efficient solutions to complex problems using my extensive experience in JavaScript technologies. 
+👨‍💻 As a Full-Stack Software Engineer, I specialize in crafting elegant and efficient solutions to complex challenges, leveraging my extensive experience with JavaScript frameworks like React, TypeScript, and Node.js.
 
+🚀 I’m passionate about building high-quality applications that make a meaningful impact, and I thrive on tackling challenging projects head-on.
 
-🚀 My passion for building high-quality applications that make a real difference is matched only by my drive to tackle challenging projects head-on. 
+📚 A fast learner, I stay updated with the latest tools and techniques to continuously enhance my skills and deliver the best possible user experiences.
 
+🔥 Whether mastering React, TypeScript, Next.js, or backend frameworks like Nest.js, I always aim for excellence in my work.
 
-📚 A fast learner, I keep up with the latest tools and techniques to continuously improve my skills and create the best possible user experiences. 
+💃 Outside of coding, I'm an enthusiast of music, fashion, art, and photography. 🌱 I also nurture a collection of plants and prioritize my well-being through yoga and daily cycling.
 
-
-🔥 Whether it's mastering React, Typescript, Angular, Node, Express, Koa, Redux, MongoDB, or PostgreSQL, I always strive for excellence. 
-
-
-💃 Beyond the world of code, I'm a lover of music, fashion, art, and photography. 
-🌱 I'm also a green thumb who cares for a collection of plants, and a dedicated yogi and cyclist who prioritizes staying fit and healthy. 
-💼 For me, a balanced and fulfilling life is the key to achieving success both personally and professionally.
+💼 I believe that a balanced and fulfilling life is essential for achieving success both personally and professionally.
